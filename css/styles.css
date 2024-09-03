@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  border-style: dashed;
+  margin: 20px;
+  padding: 10px;
+}
+
+.box {
+  border: 10px solid rebeccapurple;
+  width: 150px;
+}
